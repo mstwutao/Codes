@@ -1,2 +1,2 @@
 # codes
-codes for deep learning project(pytorch and tensorflow)
+codes for deep learning project (pytorch and tensorflow)
